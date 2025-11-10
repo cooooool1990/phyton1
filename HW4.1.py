@@ -1,4 +1,4 @@
-numbers = [1, 0, 13, 0, 0, 0, 5]
+numbers = [9, 0, 7, 31, 0, 45, 0, 45, 0, 45, 0, 0, 96, 0]
 new_list = []
 
 for num in numbers[:]:
